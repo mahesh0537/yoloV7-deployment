@@ -21,4 +21,4 @@ docker run \
   --env TERM=xterm-256color \
   -v $(pwd):$(pwd) -w $(pwd)\
   --rm \
-  demo
+  mahesh0537/umic
