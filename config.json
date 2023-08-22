@@ -1,0 +1,1 @@
+{"weights": ["best.pt"], "source": "test/images", "img_size": 640, "conf_thres": 0.5, "iou_thres": 0.45, "device": "cpu", "view_img": false, "save_txt": false, "save_conf": false, "nosave": false, "classes": null, "agnostic_nms": false, "augment": false, "update": false, "project": "runs/detect", "name": "exp", "exist_ok": false, "no_trace": true}
